@@ -2,16 +2,13 @@ name: Update Providers JSON
 
 on:
   schedule:
-    # This cron syntax means "Run at minute 0 past every 12th hour"
     - cron: '0 */12 * * *'
-  # This allows you to run it manually by clicking a button in the Actions tab
   workflow_dispatch:
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     
-    # Grants permission to the bot to push the updated JSON file back to the repo
     permissions:
       contents: write 
 
@@ -27,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pycryptodomex
+          pip install -r requirements.txt
 
       - name: Run extraction script
         run: python script.py
@@ -37,5 +34,4 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add providors.json
-          # This checks if the JSON file actually changed before trying to commit
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update providors.json" && git push)
