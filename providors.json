@@ -472,5 +472,11 @@
     "title": "WORLD TV 2",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8OiEwOT5UL5UttBZ5Tnhgsod8i2EQlfB97FFchdBOo8e_PfxvR8RJ68&s=10",
     "catLink": "https://raw.githubusercontent.com/amin8453/playlist/main/main.m3u"
+  },
+  {
+    "id": "204",
+    "title": "INDIA TV",
+    "image": "https://static.vecteezy.com/system/resources/previews/011/571/519/non_2x/circle-flag-of-india-free-png.png",
+    "catLink": "https://raw.githubusercontent.com/amin8453/playlist/main/india.m3u"
   }
 ]
