@@ -88,7 +88,7 @@
     "title": "FANCODE IND",
     "image": "https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q",
     "catLink": "https://raw.githubusercontent.com/doctor-8trange/zyphx8/refs/heads/main/data/fancode.m3u",
-    "geo": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CQ,CR,CU,CV,CW,CX,CY,CZ,DE,DG,DJ,DK,DM,DO,DZ,EA,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,"
+    "geo": "ALL"
   },
   {
     "id": "19",
@@ -151,13 +151,6 @@
     "title": "DISTRO TV",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYQjBTT5SL_kuJF7CbQtoSEA7PzyiH9RYIuDO9F1sx87CtiULDyiDf7ybt&s=10",
     "catLink": "https://gist.githubusercontent.com/ArcReactorCode/3377667c6fe83ac3911c4410a29d9cc9/raw/distro.m3u",
-    "geo": "ALL"
-  },
-  {
-    "id": "104",
-    "title": "ZEE5",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0OT2NFe9Jb4ofg_DrXx42EKLgyGnSGwoLg&usqp=CAU",
-    "catLink": "https://zee5.cloud-hatchh.workers.dev/?token=42e4f5-2d413b-3c37d8-7f3f35",
     "geo": "ALL"
   },
   {
@@ -295,9 +288,9 @@
   },
   {
     "id": "157",
-    "title": "Movies & Series",
-    "image": "https://i.postimg.cc/QCVVj6D1/Movies.png",
-    "catLink": "http://tv.noobon.top/playlist/movies.php",
+    "title": "PRIME X SONYLIV",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/990f75eb-172d-42a8-bd8f-899ab38ba394/dloa0nu-37609bfd-6ea5-4efe-9151-1fa01aca8222.png/v1/fill/w_894,h_894/what_if_sony_prime_logo_concept_2026_by_carxl2029_dloa0nu-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiIvZi85OTBmNzVlYi0xNzJkLTQyYTgtYmQ4Zi04OTlhYjM4YmEzOTQvZGxvYTBudS0zNzYwOWJmZC02ZWE1LTRlZmUtOTE1MS0xZmEwMWFjYTgyMjIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fXgTA8efNHFWB02Iz-K0XZEm2bbe4apg7kDW84sb9V8",
+    "catLink": "https://raw.githubusercontent.com/doctor-8trange/tekzya9/refs/heads/main/data/primevideoindia.m3u",
     "geo": "ALL"
   },
   {
@@ -368,13 +361,6 @@
     "title": "World Sport",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7iSlqAmYv4wa-7P9aRqiLVniqbUQUtVNmgsf4BxJJqpRKNJVhlVHvFKI&s=10",
     "catLink": "https://tv.xmasterbd.sbs/dhd/playlist.php",
-    "geo": "ALL"
-  },
-  {
-    "id": "174",
-    "title": "Prime Channel",
-    "image": "https://static.vecteezy.com/system/resources/previews/046/437/251/non_2x/amazon-prime-logo-free-png.png",
-    "catLink": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/amzusa.m3u",
     "geo": "ALL"
   },
   {
